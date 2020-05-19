@@ -36,9 +36,11 @@ class worldwide():
         for i in country_i:
             self.__country_list.append(i['name'].lower())
 
+    # returns list of countries
     def country_list(self):
-        return self.__country_list
+        return self.__country_list 
 
+    # returns a dictionary with the three values
     def worldwide_data(self):
         return self.__worldwide_values
 
@@ -114,11 +116,4 @@ class worldwide():
                 return self.__state_data_list
 
 
-f = open("abc.txt","w")
-f2 = open("abc2.txt","w")
-
-c = worldwide()
-# print(c.worldwide_data())
-# print(c.country_list())
-# print(c.get_country_data("us"))
-
+        

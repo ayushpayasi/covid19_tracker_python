@@ -1,0 +1,51 @@
+# This api uses data provided by mathdro
+# always import the country module and do not edit the same
+# the data output is of various types all of them are explained in this documentaion
+
+
+#to initialize the module make a object of class worldwide
+worldwide = worldwide()
+# here country object is used to reference the worldwide class
+#use this country object to get data from the api
+
+# defined functions and there ouptputs
+    # this module has various methods to retrive data
+    # all the methods are-
+
+    # country_list()
+        # this method returns the list of countries supported by this module
+        # this method takes no parameters
+        # to use this method 
+        li = worldwide.country_list()
+
+    # worldwide_data()
+        # this method returns dictionary containing 'confirmed', 'recovered' and 'deaths'
+        # use keys 
+            # 'confirmed' 
+            # 'recovered'
+            # 'deaths'
+        # to use this method
+        global_data = worldwide.worldwide_data()
+
+   # get_country_data("country")
+        # this method returns a dictionary containing 'confirmed', 'recovered' and 'deaths'
+        # use keys 
+            # 'confirmed' 
+            # 'recovered'
+            # 'deaths'
+        # to use this method
+        country_data = get_country_data("country_name")
+    
+    # get_state_data()
+        # this method works on parameters it has following parameters
+            # country
+            # state
+            # latest
+        # this method must get country as input
+        # state and latest are optional parameters
+        # this function outputs the country_data as list and is usefull when needed to plot graph
+        # use this combinations to get this type of data
+            get_state_data("country_name", latest=True)   #to get the complete list of latest state data
+            get_state_data("country_name")      #to get the list of complete state data for plotting
+            get_state_data("country_name",state="state_name") #to get selected state's complete data for plotting 
+            get_state_data("country_name",state="state_name", latest=True) #to get the latest data of the selected state
