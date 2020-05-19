@@ -1,0 +1,57 @@
+{'state': 'New York', 'confirmed': 193230, 'recovered': 0, 'detahs': 20806, 'active': 172424, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Illinois', 'confirmed': 63690, 'recovered': 0, 'detahs': 2889, 'active': 60801, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'California', 'confirmed': 38466, 'recovered': 0, 'detahs': 1842, 'active': 36624, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Pennsylvania', 'confirmed': 19953, 'recovered': 0, 'detahs': 1080, 'active': 18873, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Massachusetts', 'confirmed': 19345, 'recovered': 0, 'detahs': 1412, 'active': 17933, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Michigan', 'confirmed': 19128, 'recovered': 0, 'detahs': 2226, 'active': 16902, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'New Jersey', 'confirmed': 18498, 'recovered': 0, 'detahs': 1068, 'active': 17430, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Florida', 'confirmed': 15864, 'recovered': 0, 'detahs': 566, 'active': 15298, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Connecticut', 'confirmed': 14439, 'recovered': 0, 'detahs': 1153, 'active': 13286, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Maryland', 'confirmed': 11608, 'recovered': 0, 'detahs': 436, 'active': 11172, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Texas', 'confirmed': 9635, 'recovered': 0, 'detahs': 205, 'active': 9430, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Rhode Island', 'confirmed': 9112, 'recovered': 0, 'detahs': 0, 'active': 9112, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Indiana', 'confirmed': 8406, 'recovered': 0, 'detahs': 480, 'active': 7926, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Virginia', 'confirmed': 7843, 'recovered': 0, 'detahs': 284, 'active': 7559, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Washington', 'confirmed': 7515, 'recovered': 0, 'detahs': 528, 'active': 6987, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Arizona', 'confirmed': 7340, 'recovered': 0, 'detahs': 324, 'active': 7016, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'District of Columbia', 'confirmed': 7270, 'recovered': 0, 'detahs': 392, 'active': 6878, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Louisiana', 'confirmed': 7059, 'recovered': 0, 'detahs': 430, 'active': 6629, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Nevada', 'confirmed': 5463, 'recovered': 0, 'detahs': 296, 'active': 5167, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Minnesota', 'confirmed': 5409, 'recovered': 0, 'detahs': 467, 'active': 4942, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Wisconsin', 'confirmed': 5005, 'recovered': 0, 'detahs': 256, 'active': 4749, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Colorado', 'confirmed': 4720, 'recovered': 0, 'detahs': 272, 'active': 4448, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Ohio', 'confirmed': 4574, 'recovered': 0, 'detahs': 177, 'active': 4397, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Missouri', 'confirmed': 4324, 'recovered': 0, 'detahs': 336, 'active': 3988, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Tennessee', 'confirmed': 4066, 'recovered': 0, 'detahs': 44, 'active': 4022, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Utah', 'confirmed': 3942, 'recovered': 0, 'detahs': 55, 'active': 3887, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Delaware', 'confirmed': 3861, 'recovered': 0, 'detahs': 114, 'active': 3747, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Georgia', 'confirmed': 3751, 'recovered': 0, 'detahs': 171, 'active': 3580, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'South Dakota', 'confirmed': 3150, 'recovered': 0, 'detahs': 39, 'active': 3111, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Iowa', 'confirmed': 3068, 'recovered': 0, 'detahs': 84, 'active': 2984, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Puerto Rico', 'confirmed': 2710, 'recovered': 0, 'detahs': 124, 'active': 2586, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'North Carolina', 'confirmed': 2652, 'recovered': 0, 'detahs': 64, 'active': 2588, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Nebraska', 'confirmed': 2446, 'recovered': 0, 'detahs': 14, 'active': 2432, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'New Mexico', 'confirmed': 1953, 'recovered': 0, 'detahs': 78, 'active': 1875, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Kentucky', 'confirmed': 1916, 'recovered': 0, 'detahs': 129, 'active': 1787, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'New Hampshire', 'confirmed': 1764, 'recovered': 0, 'detahs': 54, 'active': 1710, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Alabama', 'confirmed': 1735, 'recovered': 0, 'detahs': 101, 'active': 1634, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Kansas', 'confirmed': 1400, 'recovered': 0, 'detahs': 8, 'active': 1392, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'South Carolina', 'confirmed': 1250, 'recovered': 0, 'detahs': 61, 'active': 1189, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'North Dakota', 'confirmed': 1173, 'recovered': 0, 'detahs': 27, 'active': 1146, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Oklahoma', 'confirmed': 1075, 'recovered': 0, 'detahs': 46, 'active': 1029, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Oregon', 'confirmed': 996, 'recovered': 0, 'detahs': 55, 'active': 941, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Arkansas', 'confirmed': 965, 'recovered': 0, 'detahs': 8, 'active': 957, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Maine', 'confirmed': 852, 'recovered': 0, 'detahs': 36, 'active': 816, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Idaho', 'confirmed': 780, 'recovered': 0, 'detahs': 22, 'active': 758, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Mississippi', 'confirmed': 772, 'recovered': 0, 'detahs': 22, 'active': 750, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Vermont', 'confirmed': 439, 'recovered': 0, 'detahs': 38, 'active': 401, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Hawaii', 'confirmed': 415, 'recovered': 0, 'detahs': 11, 'active': 404, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Wyoming', 'confirmed': 224, 'recovered': 0, 'detahs': 0, 'active': 224, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'West Virginia', 'confirmed': 215, 'recovered': 0, 'detahs': 6, 'active': 209, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Alaska', 'confirmed': 205, 'recovered': 0, 'detahs': 4, 'active': 201, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Guam', 'confirmed': 154, 'recovered': 0, 'detahs': 5, 'active': 149, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Montana', 'confirmed': 149, 'recovered': 0, 'detahs': 1, 'active': 148, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Grand Princess', 'confirmed': 103, 'recovered': 0, 'detahs': 3, 'active': 100, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Virgin Islands', 'confirmed': 69, 'recovered': 0, 'detahs': 6, 'active': 63, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Diamond Princess', 'confirmed': 49, 'recovered': 0, 'detahs': 0, 'active': 49, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
+{'state': 'Northern Mariana Islands', 'confirmed': 21, 'recovered': 0, 'detahs': 2, 'active': 19, 'user': 'Ayush', 'lastupdate': '2020-05-19 13:02:18'}
