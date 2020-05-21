@@ -44,6 +44,8 @@ class worldwide():
     def worldwide_data(self):
         return self.__worldwide_values
 
+    def last_date(self):
+        return self.__update_date
 
     #returns a dictionary of confirmed recovered and deaths of the country
     def get_country_data(self, country):
@@ -68,10 +70,13 @@ class worldwide():
             city_data = urllib.request.urlopen("https://covid19.mathdro.id/api/countries/"+country+"/confirmed")
             state_list = json.loads(city_data.read().decode())
             if len(state_list) == 1:
-                return("No value for this country")
+                self.__state_list = ["no data"]
+                return
             else:
+                self.__state_list=[]
                 for fstate in state_list:
                     local_dict={}
+                    
                     if fstate["provinceState"] not in self.__state_list:
                         self.__state_list.append(fstate["provinceState"])
                     local_dict["state"] = fstate["provinceState"]
@@ -82,7 +87,9 @@ class worldwide():
                     local_dict["user"] = "Ayush"
                     local_dict["lastupdate"]= str(datetime.fromtimestamp(int(str(fstate['lastUpdate'])[:-3])))
                     self.__all_state_data_list.append(local_dict)
-        
+    def state_list(self,country):
+        self.save_state_data(country)
+        return self.__state_list    
 
     def get_state_data(self,country=None,state=None, latest = False):
         if country is None:
